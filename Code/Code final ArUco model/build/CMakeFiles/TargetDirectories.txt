@@ -1,0 +1,3 @@
+/home/scarlleth/Área de Trabalho/INF573/My_Project_INF573/Code final ArUco model/build/CMakeFiles/rebuild_cache.dir
+/home/scarlleth/Área de Trabalho/INF573/My_Project_INF573/Code final ArUco model/build/CMakeFiles/ar.dir
+/home/scarlleth/Área de Trabalho/INF573/My_Project_INF573/Code final ArUco model/build/CMakeFiles/edit_cache.dir
