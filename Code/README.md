@@ -1,1 +1,0 @@
-We designed two final models that are complementary, one markerless model and one model using arUco markers. You can find the two scripts in the two following files "Code final ArUco model" and "Code final markerless model". 
